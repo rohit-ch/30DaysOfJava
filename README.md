@@ -1,2 +1,2 @@
 # 30DaysOfJava
-Learning Java and It's Ecosystem for 30 Continuous Days
+Learning Java and its Ecosystem for 30 Continuous Days
